@@ -45,8 +45,8 @@ This project aims to predict the likelihood of diabetes based on patient data, u
 
 ## Validation Results
 
-- **Model 1 (Random Forest) Validation Accuracy: 0.766**
-- **Model 2 (Gradient Boosting) Validation Accuracy: 0.766**
+- **Model 1 (Random Forest) Validation Accuracy: 0.727**
+- **Model 2 (Gradient Boosting) Validation Accuracy: 0.753**
 
 ## Conclusion
 
